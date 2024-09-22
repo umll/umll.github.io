@@ -168,7 +168,7 @@ final V putVal(int hash, K key, V value, boolean onlyIfAbsent, boolean evict) {
 - **有链**
   盗图：
 
-  ![image-20240324111750921](/assets/blog-image/blog2/hash6.png)
+  ![image-20240324111750921](/assets/blog-image/blog2/hsah6.png)
   扩容后的元素位置根上面的总结一致。
 
 ### 四、Hash(key)方法
